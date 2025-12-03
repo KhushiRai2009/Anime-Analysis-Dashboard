@@ -13,7 +13,7 @@ Advanced visualizations including KPI charts, sparkline trends, and dumbbell com
 Insights into genre popularity, seasonal trends, and rating distribution.
 
 
-Tools Used: Python (pandas, matplotlib, seaborn), Tableau, Excel.
+Tools Used: Tableau Public and data taken from Kaggle.
 
 Objective: To provide anime enthusiasts and analysts with actionable insights and visual storytelling through clean data visualization and exploratory analysis.
 
