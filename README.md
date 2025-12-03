@@ -17,3 +17,5 @@ Tools Used: Python (pandas, matplotlib, seaborn), Tableau, Excel.
 
 Objective: To provide anime enthusiasts and analysts with actionable insights and visual storytelling through clean data visualization and exploratory analysis.
 
+<img width="1366" height="698" alt="Anime DashboardOverview" src="https://github.com/user-attachments/assets/4a4cde1c-7b69-43ae-af64-59dd8a8b6921" />
+<img width="1366" height="698" alt="Anime DashboardInsights" src="https://github.com/user-attachments/assets/2b752ffe-9749-46d6-bdf9-1fb2e30e56f9" />
